@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://theankitsinha.in/](https://theankitsinha.in/)
 
 ### Wakatime
-[![wakatime-stats](https://github.com/theankitsinha/theankitsinha/blob/main/images/stat.svg)]
+[![wakatime-stats](https://github.com/theankitsinha/theankitsinha/blob/main/images/stat.svg)](https://wakatime.com/@theankitsinha)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
